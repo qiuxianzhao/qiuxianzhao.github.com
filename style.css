@@ -151,7 +151,7 @@ progress::-moz-progress-value {
 }
 
 .weixin{
-    margin-top: 20px;
+    margin-top: -9px;
     background-color: #e0eaf0;   
     position: relative;
     padding-top: 40px;
@@ -172,7 +172,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://avatars0.githubusercontent.com/u/21081491?v=3&s=460');
+    background-image:url('https://cloud.githubusercontent.com/assets/24539613/22788212/fc995546-ef19-11e6-8033-d350e224337e.jpg');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
