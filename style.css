@@ -172,7 +172,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://cloud.githubusercontent.com/assets/24539613/22788212/fc995546-ef19-11e6-8033-d350e224337e.jpg');
+    background-image:url('https://raw.githubusercontent.com/qiuxianzhao/grace/master/pic.jpg');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
@@ -267,6 +267,8 @@ ul li{
     cursor: pointer;
     
 }
+
+
 
 
 
